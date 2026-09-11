@@ -3,3 +3,11 @@
   margin: 0%;
   font-family: 'Times New Roman', Times, serif;
 }
+
+.heading{
+  height: 50px;
+  width: 100%;
+  background-color: red;
+  color: white;
+  font-weight: 700;
+}
